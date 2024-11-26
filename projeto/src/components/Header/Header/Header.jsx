@@ -22,7 +22,7 @@ function Header() {
         <SearchBar />
 
         {/* Título da página */}
-        <h1 className="page-title">Furtados do Pedro Furtado</h1>
+        <h1 className="page-title">Furtados do Pedro Furtado's</h1>
         
         {/* Botão do carrinho */}
         <CartButton />
